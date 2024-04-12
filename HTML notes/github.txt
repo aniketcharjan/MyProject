@@ -1,0 +1,18 @@
+Version Control System:-
+-Centralized
+-Distributed
+    |--GIT
+
+Terminal---> new Terminal
+command:- 
+1. git init
+2. git add .
+3. git commit -m "message"
+  |-first time people
+    git config --global user.email "ur email"
+    git config --global user.name "ur username"
+4. git remote add origin "link"
+5. git push -u origin master
+
+
+https://

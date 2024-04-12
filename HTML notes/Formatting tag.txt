@@ -1,0 +1,12 @@
+
+There are formmatting tags like
+b->  used to make text bold
+storng -> also used to make text bold but better SEO
+i -->  used to italic
+em --> used to make text italic but better SEO
+u --> used to make text get underline
+ins --> used to make text get underline but it means inserted to SEO
+
+
+homework 
+WWW project

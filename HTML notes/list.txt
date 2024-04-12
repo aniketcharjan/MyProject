@@ -1,0 +1,60 @@
+Lists: lists are use to list of certain items.
+HtML contains 3 types of Lists.
+1. Ordered list: list pf items where order is important
+ eg. 1. rohit
+     2. raj
+     3. virat
+
+2. Unordered List: list of item where order is not important
+ skills:
+  .skills1
+  .skills2
+  .skills3
+
+3. Description List:List of events or items mentioned with reference 
+eg: a Company's Growth
+    1995-2000: 
+        Company established
+    2001-2010
+        Company went well
+    2011-2023
+        compan got success
+    2024
+
+///TABLE:-----
+
+Tables:
+Tables are used to represent data in a simpler format.
+tables deals with rows(horizontal)
+
+<table border="1">
+        <tr>
+            <th>SNO</th>
+            <th>Degree</th>
+            <th>College</th>
+            <th>Year</th>
+        </tr>
+        <tr>
+            <td>101</td>
+            <td>Mca</td>
+            <td>ssg pune</td>
+            <td>2023</td>
+        </tr>
+        <tr>
+            <td>102</td>
+            <td>Bca</td>
+            <td>isc bangolore</td>
+            <td>2024</td>
+        </tr>
+        <tr>
+            <td>103</td>
+            <td>Btech</td>
+            <td>iit delhi</td>
+            <td>2022</td>
+        </tr>
+    </table>
+
+
+task 1: inscrese your P
+
+
